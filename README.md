@@ -26,4 +26,4 @@ And then your'e done!
 
 [Heroku](https://heroku.com)
 
-[Downlaod Heroku Toolbelt](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
+[Download Heroku Toolbelt](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
