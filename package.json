@@ -1,0 +1,23 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Static site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "launch-prd": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "11.3.0",
+    "npm": "6.4.1"
+  },
+  "author": "Jamal O'Garro",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "forever": "^0.15.3",
+    "helmet": "^3.15.0",
+    "serve-static": "^1.13.2"
+  }
+}
