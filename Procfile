@@ -1,1 +1,1 @@
-web: node index.js
+web: npx forever index.js
